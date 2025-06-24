@@ -71,4 +71,3 @@ The attack appears to originate from a **compromised mail server** at `una.edu.a
 -  Identified spoofing and phishing indicators
 -  Analyzed email headers and authentication status
 -  Strengthened understanding of social engineering
--  Learned practical phishing detection and GitHub documentation
